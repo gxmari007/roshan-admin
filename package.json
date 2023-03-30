@@ -1,5 +1,4 @@
 {
-  "name": "nuxt-app",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -15,7 +14,7 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
-    "@roshan-labs/ui": "^0.5.1"
+    "@roshan-labs/ui": "^0.5.2"
   },
   "devDependencies": {
     "@roshan-labs/eslint-config": "^1.4.0",
